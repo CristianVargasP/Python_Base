@@ -34,6 +34,14 @@ Los cuales tenemos el FOR y el WHILE que se veran a continuacion:
   “Sigue limpiando tu cuarto mientras esté desordenado.”
   → Cuando ya está ordenado (la condición ya no es verdad), paras.
 
+  Estructura:
+  
+  while condición:
+  
+      bloque de código
+  - La **condicion** se evalua antes de cada iteracion
+  - El **bloque de codigo** se ejecuta solo si la condicion es **True** 
+
 
 
   
