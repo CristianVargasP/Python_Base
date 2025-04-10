@@ -40,7 +40,33 @@ Los cuales tenemos el FOR y el WHILE que se veran a continuacion:
 
   bloque de código
   - La **condicion** se evalua antes de cada iteracion
-  - El **bloque de codigo** se ejecuta solo si la condicion es **True** 
+  - El **bloque de codigo** se ejecuta solo si la condicion es **True**
+
+
+### Estructura de datos 
+Es una froma de organizar y guardar informacion para poder usarla mas facilmente en tus progrmas.
+
+**Las principales estructuras de datos en Python:**
+- Listas(List)
+
+  Permire guardar una coleccion de elementos en un orden especifico
+  
+  - Se puede relacionar como una fila de cajas, donde cada caja tiene algo adentro y un numero que indica su posicion(indice)
+    
+    Explicacion para niños:
+    - Una lista es como una mochila con muchos bolsillos, donde puedes guardar lo que quieras y sacar lo que necesites cuando quieras.
+    - 
+    **Caracteristicas**
+    - Puede guardar cualquier tipo de dato: Numero, texto, otras listas, etc.
+    - Es mutable
+    - Cada elemento tiene una posicion, comenzando desde el 0
+    - Se puede recorrer con bucles
+      
+- Tuplas(tuple)
+- Diccionarios(dict)
+- Conjuntos(set)
+
+
 
 
 
