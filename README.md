@@ -12,7 +12,7 @@ Los cuales tenemos el FOR y el WHILE que se veran a continuacion:
 
   Estructura:
   
-   for variable in iterable:
+   **for** variable **in** iterable:
   - **VARIABLE:** Nombre que le das a cada elemento del iterable mientras se recorre
   - **INTERABLE:** Cualquier objeto que se puede recorrer elemento por elemento
        Ejemplos de interables:
@@ -36,7 +36,7 @@ Los cuales tenemos el FOR y el WHILE que se veran a continuacion:
 
   Estructura:
   
-  while condición:
+  **while** condición:
 
   bloque de código
   - La **condicion** se evalua antes de cada iteracion
@@ -55,7 +55,7 @@ Es una froma de organizar y guardar informacion para poder usarla mas facilmente
     
     Explicacion para niños:
     - Una lista es como una mochila con muchos bolsillos, donde puedes guardar lo que quieras y sacar lo que necesites cuando quieras.
-    - 
+      
     **Caracteristicas**
     - Puede guardar cualquier tipo de dato: Numero, texto, otras listas, etc.
     - Es mutable
