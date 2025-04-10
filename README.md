@@ -25,7 +25,16 @@ Los cuales tenemos el FOR y el WHILE que se veran a continuacion:
 
 
     
-- ### WHILE 
+- ### WHILE
+  El bucle while repite un bloque de codgio mientras una condicion sea verdadera. Se usa cuando no sabes cuantas veces necesitas repetir algo.
+
+  **“Sigue haciendo esto una y otra vez, mientras algo sea verdad.”**
+  
+  Es como cuando tu mamá te dice:
+  “Sigue limpiando tu cuarto mientras esté desordenado.”
+  → Cuando ya está ordenado (la condición ya no es verdad), paras.
+
+
 
   
 
