@@ -5,6 +5,7 @@ En este documento exploraremos dos pilares fundamentales para construir una buen
 
 ### Bucles 
 Secuencia de instrucciones que se repiten hasta que se cumple una condición.
+Los cuales tenemos el FOR y el WHILE que se veran a continuacion: 
 
 - ### FOR
   Se utiliza para repetir una accion un numero determinado de veces, recorriendo elementos de una lista, rango, cadena, diccionario, etc
@@ -14,6 +15,15 @@ Secuencia de instrucciones que se repiten hasta que se cumple una condición.
    for variable in iterable:
   - VARIABLE: Nombre que le das a cada elemento del iterable mientras se recorre
   - INTERABLE: Cualquier objeto que se puede recorrer elemento por elemento
+       Ejemplos de interables:
+    - Listas
+    - Tuplas
+    - Cadenas de texto
+    - Diccionarios
+    - Conjuntos
+    - Objetos de tipo 
+
+
     
 - ### WHILE 
 
