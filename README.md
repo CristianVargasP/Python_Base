@@ -37,8 +37,8 @@ Los cuales tenemos el FOR y el WHILE que se veran a continuacion:
   Estructura:
   
   while condición:
-  
-      bloque de código
+
+  bloque de código
   - La **condicion** se evalua antes de cada iteracion
   - El **bloque de codigo** se ejecuta solo si la condicion es **True** 
 
