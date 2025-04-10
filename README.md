@@ -63,6 +63,15 @@ Es una froma de organizar y guardar informacion para poder usarla mas facilmente
     - Se puede recorrer con bucles
       
 - Tuplas(tuple)
+
+  Coleccion ordenada de elementos, igual que una Lista, pero no se puede modificar una vez creada.
+
+  **Caracteristicas:**
+  - Tiene un orden
+  - No se puede cambiar, agregar ni eliminar elementos despues de crearse
+  - Son mas rapidos que las Listas
+  - Se usan para guardar datos fijos o que no deben cambiar
+
 - Diccionarios(dict)
 - Conjuntos(set)
 
