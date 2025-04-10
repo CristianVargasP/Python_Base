@@ -66,6 +66,10 @@ Es una froma de organizar y guardar informacion para poder usarla mas facilmente
 
   Coleccion ordenada de elementos, igual que una Lista, pero no se puede modificar una vez creada.
 
+  Explicación para un niño:
+  
+Una tupla es como una foto impresa: puedes verla, contar cuántas personas hay, pero no puedes cambiarla después de tomarla.
+
   **Caracteristicas:**
   - Tiene un orden
   - No se puede cambiar, agregar ni eliminar elementos despues de crearse
@@ -73,7 +77,51 @@ Es una froma de organizar y guardar informacion para poder usarla mas facilmente
   - Se usan para guardar datos fijos o que no deben cambiar
 
 - Diccionarios(dict)
+
+  Permite guardar informacion dondo cada elemento tiene una **clave(key)** y un **valor(value)**
+
+  Explicación para un niño:
+  
+Un diccionario es como una mochila con etiquetas.
+En vez de decir "dame el bolsillo 1", dices "dame lo que tiene la etiqueta 'edad'", y él te lo da.
+
+
+  **Caracteristicas:**
+  - Cada dato esta guardado como **clave:valor**
+  - las claves deben ser unicas(No se puede repetir)
+  - Los valores pueden ser de cualquier tipo
+  - Son ideales para buscar datos rapidos
+
+    Cuandp usarlo:
+    - Cuando quieras relacionar datos
+    - Cunado necesitas buscar algo rapido sin preocuparte por el orden
+
+  
 - Conjuntos(set)
+  Guarda elementos unicos(sin repetir) y sin un orden especifico
+
+  Explicación para un niño:
+  
+Un conjunto es como una caja de juguetes donde no puedes tener dos iguales.
+Si metes otro igual, solo se queda uno.
+
+
+**Caracteristicas**
+- No permites elementos repetidos
+- No tiene un orden definido(No puedes acceder por indice)
+- Muy util para hacer operaciones como:
+  - union
+  - interseccion
+  - Diferencia
+    
+**¿Cuándo usar un conjunto?**
+- Para eliminar duplicados de una lista
+- para comparar grupos de elementos
+- Cuando no importe el orden
+
+  
+
+
 
 
 
