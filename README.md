@@ -15,6 +15,8 @@ Secuencia de instrucciones que se repiten hasta que se cumple una condición.
   - VARIABLE: Nombre que le das a cada elemento del iterable mientras se recorre
   - INTERABLE: Cualquier objeto que se puede recorrer elemento por elemento
     
+- ### WHILE 
+
   
 
 
