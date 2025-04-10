@@ -13,8 +13,8 @@ Los cuales tenemos el FOR y el WHILE que se veran a continuacion:
   Estructura:
   
    for variable in iterable:
-  - VARIABLE: Nombre que le das a cada elemento del iterable mientras se recorre
-  - INTERABLE: Cualquier objeto que se puede recorrer elemento por elemento
+  - **VARIABLE:** Nombre que le das a cada elemento del iterable mientras se recorre
+  - **INTERABLE:** Cualquier objeto que se puede recorrer elemento por elemento
        Ejemplos de interables:
     - Listas
     - Tuplas
